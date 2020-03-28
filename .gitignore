@@ -1,0 +1,4 @@
+node_modules
+_dev
+.DS_Store
+config.js
