@@ -25,7 +25,9 @@
             "hello",
             "help"
           ],
-          "keywords": []
+          "keywords": [],
+          "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
+          "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
         }
       },
       "isAvailableWorldwide": true,
